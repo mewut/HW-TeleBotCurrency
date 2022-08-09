@@ -1,5 +1,5 @@
-# '5468943154:AAH9vo6g6n4Ts-9gHOXaKEe3iCtJ3YIjM8c'
-TOKEN = 'токен закомменчен'
+# '5468943154:    AAH9vo6g6n4Ts-    9gHOXaKEe3iCt    J3YIjM8c'
+TOKEN = 'токен закомменчен. Гитгардиан меня отругал! Разделила пробелами'
 
 exchanges = {
     'рубль': 'RUB',
