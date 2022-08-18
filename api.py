@@ -11,7 +11,6 @@ def form_query(query_format: str, base_url: str, access_key, query: str):
     )
 
 
-# access_key='e6b7d124e439b9e8945eae07'
 def get_currency_exchange_rate(currency: str, conversion_currency: str):
     access_key = os.environ['access_key']
     BASE_URL = 'https://www.exchangerate-api.com/'
